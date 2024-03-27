@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_oaps_aimi_mealAdjFact">key_oaps_aimi_mealAdjFact</string>
+    <string name="key_oaps_aimi_meal_factor">key_oaps_aimi_meal_factor</string>
+    <string name="key_oaps_aimi_meal_interval">key_oaps_aimi_meal_interval</string>
+    <string name="key_oaps_aimi_highcarbAdjFact">key_oaps_aimi_highcarbAdjFact</string>
+    <string name="key_oaps_aimi_HC_factor">key_oaps_aimi_HC_factor</string>
+    <string name="key_oaps_aimi_HC_interval">key_oaps_aimi_HC_interval</string>
+    <string name="key_prebolus_snack_mode">key_prebolus_snack_mode</string>
+    <string name="key_oaps_aimi_snack_interval">key_oaps_aimi_snack_interval</string>
+    <string name="key_oaps_aimi_sleepAdjFact">key_oaps_aimi_sleepAdjFact</string>
+    <string name="key_oaps_aimi_sleep_factor">key_oaps_aimi_sleep_factor</string>
+    <string name="key_oaps_aimi_sleep_interval">key_oaps_aimi_sleep_interval</string>
+    <string name="key_oaps_aimi_snackAdjFact">key_oaps_aimi_snackAdjFact</string>
+    <string name="key_oaps_aimi_snack_factor">key_oaps_aimi_snack_factor</string>
+    <string name="key_use_AimiPregnancy">key_use_AimiPregnancy</string>
+    <string name="key_use_Aimi_honeymoon">key_use_Aimi_honeymoon</string>
+    <string name="key_oaps_aimi_highBG_interval">key_oaps_aimi_highBG_interval</string>
+    <string name="key_openapsaimi_high_bg_max_smb">key_openapsaimi_high_bg_max_smb</string>
+</resources>
